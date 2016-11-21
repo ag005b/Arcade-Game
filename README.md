@@ -8,6 +8,6 @@ This game is a clone of the classic frogger game.
 - Enjoy the game :)
 
 ## How to play
-Player uses `up`, `down`, `right`, `left` [  ←   →   ↑   ↓  ] arrow keys to move the hero. The objenct of the game is to cross the road and reach the water without colliding with  any bugs.
+Player uses `up`, `down`, `right`, `left` [  ←   →   ↑   ↓  ] arrow keys to move the hero. The object of the game is to cross the road and reach the water without colliding with any bugs.
 
-The game restarts once yo have reached the water or you collide with a bug.
+The game restarts once you have reached the water or you collide with a bug.
